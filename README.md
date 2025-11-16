@@ -15,23 +15,14 @@ Ayrıca, şehrimdeki ilk ve tek roket takımını arkadaşlarımla kurarak aktif
 - 🌱 **Şu anda öğreniyorum:** ESP-NOW, Motor Kontrol Sistemleri, IoT projeleri  
 - 📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/kaymazkaya) | [Instagram](https://www.instagram.com/yusufkymzkya/)
 
----
-
-## GitHub İstatistiklerim
-
-![Yusuf'ın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=YusufKaymazkaya&show_icons=true&theme=tokyonight)
-
----
 
 ## Projelerim
 
 - 🔹 **G-EBE** – Hamilelik takibi ve sağlık uygulaması  
 - 🔹 **Deneyap Robotik Projeleri** – Arduino ve Deneyap Kart ile motor kontrol projeleri  
-- 🔹 **Astronex Space Projects** – Türkiye'nin uzay teknolojileri girişimi  
-
 ---
 
-> "Teknoloji, hayallerin gerçeğe dönüştüğü araçtır."  
+> "İstisna bir sonuç bekliyorsanız, müstesna koşullarda çalışmanız gerekir."  
 
 ---
 
