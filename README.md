@@ -12,7 +12,7 @@ Deneyap Teknoloji Atölyesi'nde projeler geliştiriyor ve **robotik, gömülü s
 - 💻 **Teknolojiler & Araçlar:** Arduino, Deneyap Kart, Flutter, Python, C++  
 - 🤖 **İlgi Alanları:** Robotik, Yapay Zeka, Uzay Teknolojileri, Mobil Uygulama Geliştirme  
 - 🌱 **Şu anda öğreniyorum:** ESP-NOW, Motor Kontrol Sistemleri, IoT projeleri  
-- 📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/yusufkaymazkaya) | [Instagram](https://www.instagram.com/yusufkaymazkaya)
+- 📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/yusufkaymazkaya) | [Instagram](https://www.instagram.com/kaymazkaya)
 
 ---
 
