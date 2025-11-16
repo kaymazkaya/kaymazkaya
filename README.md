@@ -1,18 +1,17 @@
 # Merhaba! 👋 Ben Yusuf Kaymazkaya
 
-🚀 **Genç girişimci | Yazılım ve Robotik meraklısı | Astronex Kurucusu**
+🚀 **Genç girişimci | Yazılım ve Robotik meraklısı | AstroneX Kurucusu**
 
 ---
 
 ## Hakkımda
 
-Ben Yusuf Kaymazkaya, 15 yaşındayım. 2023, 2024 ve 2025 yıllarında Teknofest finalist oldum ve şu anda il/lise temsilcisi olarak görev yapıyorum. Okulumun Teknofest Kulübü başkanıyım ve kendi girişim şirketim üzerinden geliştirdiğim bir sistem ve onun uygulamaları ile teknolojik projeler yürütüyorum.
+Ben Yusuf Kaymazkaya, 15 yaşındayım. 2023, 2024 ve 2025 yıllarında Teknofest finalist oldum ve şu anda Bingöl Teknofest il lise temsilcisi olarak aktif rol alıyorum. Okulumun Teknofest Kulübü başkanıyım ve geliştirdiğim bir sistem ile bu sisteme ait uygulamalar üzerine çalışmalar yapıyorum.
 
-Ayrıca, şehrimdeki ilk ve tek roket takımını arkadaşlarımla kurarak aktif olarak yönetiyorum. Robotik, gömülü sistemler ve yazılım geliştirme alanlarında kendimi sürekli geliştirmekteyim ve yeni teknolojik projeler üretmeye devam ediyorum.
+Ayrıca, şehrimdeki ilk ve tek roket takımını arkadaşlarımla birlikte kurdum ve bu ekip ile projeler geliştirmeye devam ediyorum. Girişimim ile robotik, gömülü sistemler ve yazılım geliştirme alanlarında kendimi sürekli geliştiriyorum.
 
 - 💻 **Teknolojiler & Araçlar:** Arduino, Deneyap Kart, Flutter, Python, C++  
 - 🤖 **İlgi Alanları:** Robotik, Yapay Zeka, Uzay Teknolojileri, Mobil Uygulama Geliştirme  
-- 🌱 **Şu anda öğreniyorum:** ESP-NOW, Motor Kontrol Sistemleri, IoT projeleri  
 - 📫 **İletişim:** [LinkedIn](https://www.linkedin.com/in/kaymazkaya) | [Instagram](https://www.instagram.com/yusufkymzkya/)
 
 
@@ -22,7 +21,7 @@ Ayrıca, şehrimdeki ilk ve tek roket takımını arkadaşlarımla kurarak aktif
 - 🔹 **Deneyap Robotik Projeleri** – Arduino ve Deneyap Kart ile motor kontrol projeleri  
 ---
 
-> "İstisna bir sonuç bekliyorsanız, müstesna koşullarda çalışmanız gerekir."  
+> "İstisna bir sonuç bekliyorsanız, müstesna koşullarda çalışmak zorundasınız."  
 
 ---
 
