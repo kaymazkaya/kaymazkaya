@@ -6,7 +6,7 @@
 
 ## Hakkımda
 
-Ben Yusuf Kaymazkaya, 15 yaşındayım. 2023, 2024 ve 2025 yıllarında Teknofest finalist oldum ve şu anda Bingöl Teknofest il lise temsilcisi olarak aktif rol alıyorum. Okulumun Teknofest Kulübü başkanıyım ve geliştirdiğim bir sistem ile bu sisteme ait uygulamalar üzerine çalışmalar yapıyorum.
+Ben Yusuf Kaymazkaya, 15 yaşındayım. 2023, 2024 ve 2025 yıllarında Teknofest finalist oldum ve şu anda Bingöl Teknofest il lise temsilcisi olarak aktif rol alıyorum. Okulumun Teknofest Kulübü başkanıyım ve geliştiricisi olduğum bir sistem ile bu sisteme ait uygulamalar üzerine çalışmalar yapıyorum.
 
 Ayrıca, şehrimdeki ilk ve tek roket takımını arkadaşlarımla birlikte kurdum ve bu ekip ile projeler geliştirmeye devam ediyorum. Girişimim ile robotik, gömülü sistemler ve yazılım geliştirme alanlarında kendimi sürekli geliştiriyorum.
 
