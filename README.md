@@ -1,4 +1,4 @@
-# Merhaba! 👋 Ben Yusuf Kaymazkaya
+# Merhaba! 👋 Ben Muhammed Yusuf Kaymazkaya
 
 🚀 **Genç girişimci | Yazılım ve Robotik meraklısı | AstroneX Kurucusu**
 
